@@ -122,6 +122,7 @@ DEPARTMENTS = {
     '974': 'La Réunion',
     '976': 'Mayotte',
     '978': 'Saint-Martin',
+    '986': 'Wallis-et-Futuna',
     '987': 'Polynésie française',
     '988': 'Nouvelle-Calédonie'
 }
